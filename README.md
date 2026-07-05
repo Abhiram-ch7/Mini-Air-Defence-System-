@@ -69,7 +69,7 @@ The model can detect the following objects:
 
 Clone the repository.
 
-git clone https://github.com/pardhavreddy0312/Mini-Air-Defence-System.git
+git clone https://github.com/Abhiram-ch7/Mini-Air-Defence-System.git
 Move into the project directory.
 
 cd Mini-Air-Defence-System
